@@ -1,4 +1,4 @@
-# Pygame & Tkinet
+# Pygame & Tkinter
 
 - Script.py file has a pygame version of you vs AI
 - tkv1.py file has a tkinter version of you vs AI
